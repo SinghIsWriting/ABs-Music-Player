@@ -3,6 +3,8 @@
 A clean, modern, and lightweight music player built with **Python**, **CustomTkinter**, and **Pygame**.
 This tool allows users to load music from a folder and play songs with an intuitive GUI, smooth controls, and a stylish dark theme.
 
+<img width="1920" height="1018" alt="image" src="https://github.com/user-attachments/assets/c7a8a520-39ac-4532-b83a-37e084973efb" />
+
 ---
 
 ## 🚀 **Features**
@@ -48,7 +50,7 @@ Shows detailed information such as:
 
 A ready-to-install Windows version is available:
 
-👉 **[Download ABsMusicPlayer](installer/ABsMusicPlayer.exe)**
+👉 **[Download ABsMusicPlayer](https://github.com/SinghIsWriting/ABs-Music-Player/raw/refs/heads/main/Installer/ABsMusicPlayer.exe)**
 *(No Python required)*
 
 ---
@@ -135,7 +137,7 @@ Output EXE is then packaged into an installer using **Inno Setup**.
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
@@ -144,11 +146,11 @@ Output EXE is then packaged into an installer using **Inno Setup**.
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
 
-## License
+## 🪪 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## **Contact Me**
+## 📮 Contact Me
 
 For any inquiries or support, please reach out to:
 - **Name**: Abhishek Singh
