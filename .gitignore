@@ -3,3 +3,5 @@
 *.spec
 *.iss
 *.txt
+temp.*
+*.json
