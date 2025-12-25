@@ -3,7 +3,8 @@
 A clean, modern, and lightweight music player built with **Python**, **CustomTkinter**, and **Pygame**.
 This tool allows users to load music from a folder and play songs with an intuitive GUI, smooth controls, and a stylish dark theme.
 
-<img width="1920" height="1018" alt="image" src="https://github.com/user-attachments/assets/c7a8a520-39ac-4532-b83a-37e084973efb" />
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/8ea869ba-3882-46f4-9d31-3f3d2ad525fe" />
+
 
 ---
 
